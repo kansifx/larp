@@ -1,0 +1,11 @@
+{
+  "name": "larp-checker",
+  "version": "1.0.0",
+  "main": "Checker.js",
+  "scripts": {
+    "start": "node Checker.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
